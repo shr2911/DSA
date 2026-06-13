@@ -10,3 +10,6 @@ def productArraySelf(nums):
     return output
 nums = [1,2,3,4,5]
 print(productArraySelf(nums))
+
+# tc: o(n)
+# sc: o(1) if we ignore  ouput array as a extra space
